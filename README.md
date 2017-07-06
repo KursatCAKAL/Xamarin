@@ -31,7 +31,7 @@ Derleme numarası etiketine ard arda tıklayarak (bu cihazdan cihaza değişebil
 USB debugging seçeneğini telefon ile derleme işlemini gerçekleştirmek için aktifleştiriyoruz.
 Artık ayarlar menümüze Developer Mode etiketi eklendi.
 ![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/7.png)
-
+<image style="height:70px; width:50px;" src="https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/7.png" > 
 <h1>Adım2:</h1>
 
 Android SDK manager sayesinde gerekli driver'ları yükliyeceğiz.
