@@ -46,9 +46,12 @@ Geriye sadece bilgisayarımıza telefonu bağlayarak cihaz kurulumunu yüklemiş
 -Aygıtınızı bir USB kablosuyla bilgisayara bağlayın.<br>
 -Masaüstünden veya Windows Gezgini'nden Bilgisayar'ı sağ tıklatın ve Yönet'i seçin.<br>
 -Sol bölmedeki Aygıt Yöneticisini seçin.<br>
+![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/3-2.png) 
 -Taşınabilir Aygıtlar ya da Diğer Cihazlar bölmelerinden bağlı cihazımıza sağ tıklayıp sürücüyü güncelleştir diyoruz.<br>
 -Karşımıza çıkan pencereden Sürücü Yazılımı İçin Bilgisayarı Tara diyerek.<br>
+![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/4-2.png) 
 -Daha önce Google Usb Driver yüklediğimiz yolu karşımızda açılan penceredeki textbox'a girerek yüklemiş olduğumuz usb driver ile telefonumuzu özdeşleştiriyoruz.<br>
+![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/5-2.png) 
 -USB bağlantısı için işlemlerimiz bu kadar Wifi ile de bu olayları yapmak mümkün(TCP portlarını kullanarak IP adresi configurasyonu yapmamız gerekli).<br>
 
 
