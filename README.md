@@ -55,6 +55,13 @@ Geriye sadece bilgisayarımıza telefonu bağlayarak cihaz kurulumunu yüklemiş
 -USB bağlantısı için işlemlerimiz bu kadar Wifi ile de bu olayları yapmak mümkün(TCP portlarını kullanarak IP adresi configurasyonu yapmamız gerekli).<br>
 
 
+<h1>Visual Studio ile cihaz bağlantısı</h1>
+Artık projemizi açtığımızda Output kısmında Xamarin Diagnostics de cihazın tanınmasıyla ilgili değişiklikler mevcut olmalı.
+
+![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/VS-1.png)
+
+Artık debug işlemimizi cihazımız ile gerçekleştirebiliyoruz.
+![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/VS-3.png)
 
 
 
