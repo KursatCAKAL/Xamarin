@@ -17,9 +17,13 @@ Bu kurulum işlemi için 3 temel adım mevcut:
 
 <h1>Adım 1:</h1>
 Bu adımda android telefonumuzda ayarlar bölümünde 'Telefon Hakkında' yı seçerek.
+
 ![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/1.png)
+
 En alttaki 'derleme numarası' bir diğer deyişle 'build number' ı buluyoruz.
+
 ![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/2.png)
+
 Burası 'geliştirici mod' seçeneceğini bizim için aktifleştiren komut butonu yani android'in mayasında bu işlemi aktifleştirmek bu şekilde belirlenmiş.
 Derleme numarası etiketine ard arda tıklayarak (bu cihazdan cihaza değişebilir) geliştirici modu aktifleştireceğiz.
 Örneğin ben aktive ettiğim için cihaz artık beni bir geliştiric olarak görüyor ve izin vermiyor.
