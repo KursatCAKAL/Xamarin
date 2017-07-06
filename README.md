@@ -28,8 +28,8 @@ Burası 'geliştirici mod' seçeneceğini bizim için aktifleştiren komut buton
 Derleme numarası etiketine ard arda tıklayarak (bu cihazdan cihaza değişebilir) geliştirici modu aktifleştireceğiz.
 Örneğin ben aktive ettiğim için cihaz artık beni bir geliştiric olarak görüyor ve izin vermiyor.<br>
 <img height="450px" width="270px" src="https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/3.png"><br>
-USB debugging seçeneğini telefon ile derleme işlemini gerçekleştirmek için aktifleştiriyoruz.
-Artık ayarlar menümüze Developer Mode etiketi eklendi.
+USB debugging seçeneğini telefon ile derleme işlemini gerçekleştirmek için aktifleştiriyoruz.<br>
+Artık ayarlar menümüze Developer Mode etiketi eklendi.<br>
 <img height="450px" width="270px" src="https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/7.png"> 
 <h1>Adım2:</h1>
 
