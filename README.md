@@ -43,13 +43,13 @@ Kurulumu gerçekleştirdikten sonra "C:\Program Files (x86)\Android\android-sdk\
 <h1>Adım3:</h1>
 
 Geriye sadece bilgisayarımıza telefonu bağlayarak cihaz kurulumunu yüklemiş olduğumuz Google Usb Driver yolu ile özdeşleştirmek kaldı.
--Aygıtınızı bir USB kablosuyla bilgisayara bağlayın.
--Masaüstünden veya Windows Gezgini'nden Bilgisayar'ı sağ tıklatın ve Yönet'i seçin.
--Sol bölmedeki Aygıt Yöneticisini seçin.
--Taşınabilir Aygıtlar ya da Diğer Cihazlar bölmelerinden bağlı cihazımıza sağ tıklayıp sürücüyü güncelleştir diyoruz.
--Karşımıza çıkan pencereden Sürücü Yazılımı İçin Bilgisayarı Tara diyerek.
--Daha önce Google Usb Driver yüklediğimiz yolu karşımızda açılan penceredeki textbox'a girerek yüklemiş olduğumuz usb driver ile telefonumuzu özdeşleştiriyoruz.
--USB bağlantısı için işlemlerimiz bu kadar Wifi ile de bu olayları yapmak mümkün(TCP portlarını kullanarak IP adresi configurasyonu yapmamız gerekli).
+-Aygıtınızı bir USB kablosuyla bilgisayara bağlayın.<br>
+-Masaüstünden veya Windows Gezgini'nden Bilgisayar'ı sağ tıklatın ve Yönet'i seçin.<br>
+-Sol bölmedeki Aygıt Yöneticisini seçin.<br>
+-Taşınabilir Aygıtlar ya da Diğer Cihazlar bölmelerinden bağlı cihazımıza sağ tıklayıp sürücüyü güncelleştir diyoruz.<br>
+-Karşımıza çıkan pencereden Sürücü Yazılımı İçin Bilgisayarı Tara diyerek.<br>
+-Daha önce Google Usb Driver yüklediğimiz yolu karşımızda açılan penceredeki textbox'a girerek yüklemiş olduğumuz usb driver ile telefonumuzu özdeşleştiriyoruz.<br>
+-USB bağlantısı için işlemlerimiz bu kadar Wifi ile de bu olayları yapmak mümkün(TCP portlarını kullanarak IP adresi configurasyonu yapmamız gerekli).<br>
 
 
 
