@@ -1,0 +1,50 @@
+Xamarin cross-platform uygulamalarýný windows,android ve ios simulatorlerde derleyerek test edebiliyoruz.
+Ancak bu durumu telefonumuzda yapýp daha izlenebilir bir yapýya sahip olabiliriz.
+Windows phone , iphone ve android cihazlar olmak üzere her birinde ayrý ayrý bu yapýya sahip olabiliriz.
+Bu makalemde ben anroid bir cihaz üzerinde bunu nasýl yapacaðýmýzý ele alacaðým.
+Xamarin.Android'i bir Android cihazda Xamarin Studio veya Visual Studio'yu kullanarak debug etmek mümkündür.
+Öncelikle development iþlemini gerçekleþtirebilmek için cihazýmýzý bilgisayarýmýza kurmamýz gerekmekte.
+
+Bu kurulum iþlemi için 3 temel adým mevcut:
+
+1-Aygýtta Geliþtirici Modu Etkinleþtirmek:Varsayýlan olarak, uygulamalarý bir Android cihazda debug etmek mümkün olmayacaktýr.
+
+2-USB Sürücülerini Yükle:Windows bilgisayarlarý,cihaza özel USB sürücülerinin yüklenmesini gerektirmektedir.
+
+3-Aygýtý Bilgisayara Baðlayýn:Son adým, aygýtý bilgisayara USB veya WiFi ile baðlamayý içerir.
+
+Adým 1:
+Bu adýmda android telefonumuzda ayarlar bölümünde 'Telefon Hakkýnda' yý seçerek.
+RESÝM1
+En alttaki 'derleme numarasý' bir diðer deyiþle 'build number' ý buluyoruz.
+RESÝM2
+Burasý 'geliþtirici mod' seçeneceðini bizim için aktifleþtiren komut butonu yani android'in mayasýnda bu iþlemi aktifleþtirmek bu þekilde belirlenmiþ.
+Derleme numarasý etiketine ard arda týklayarak (bu cihazdan cihaza deðiþebilir)  geliþtirici modu aktifleþtireceðiz.
+Örneðin ben aktive ettiðim için cihaz artýk beni bir geliþtiric olarak görüyor ve izin vermiyor.
+RESÝM3
+USB debugging seçeneðini telefon ile derleme iþlemini gerçekleþtirmek için aktifleþtiriyoruz.
+Artýk ayarlar menümüze Developer Mode etiketi eklendi.
+RESÝM7
+
+Adým2:
+Android SDK manager sayesinde gerekli driver'larý yükliyeceðiz.
+Gereksiz yükleme yapmak istemiyorsanýz lütfen sadece 'Google USB Driver package' in seçili olduðundan emin olun iþlem için bu yükleme yeterli olacak.
+Kurulumu gerçekleþtirdikten sonra "C:\Program Files (x86)\Android\android-sdk\extras\google\usb_driver" yolunu kontrol ediniz.
+RESÝM 1_ 
+ÞEKLÝNDE DOSYA ÝÇERÝÐÝ OLMASI GEREKÝR.
+
+Adým 3:
+Geriye sadece bilgisayarýmýza telefonu baðlayarak cihaz kurulumunu yüklemiþ olduðumuz Google Usb Driver yolu ile özdeþleþtirmek kaldý.
+-Aygýtýnýzý bir USB kablosuyla bilgisayara baðlayýn.
+-Masaüstünden veya Windows Gezgini'nden Bilgisayar'ý sað týklatýn ve Yönet'i seçin.
+-Sol bölmedeki Aygýt Yöneticisini seçin.
+-Taþýnabilir Aygýtlar ya da Diðer Cihazlar bölmelerinden baðlý cihazýmýza sað týklayýp sürücüyü güncelleþtir diyoruz.
+-Karþýmýza çýkan pencereden Sürücü Yazýlýmý Ýçin Bilgisayarý Tara diyerek.
+-Daha önce Google Usb Driver yüklediðimiz yolu karþýmýzda açýlan penceredeki textbox'a girerek yüklemiþ olduðumuz usb driver ile telefonumuzu özdeþleþtiriyoruz.
+-USB baðlantýsý için iþlemlerimiz bu kadar Wifi ile de bu olaylarý yapmak mümkün(TCP portlarýný kullanarak IP adresi configurasyonu yapmamýz gerekli).
+
+
+
+
+
+
