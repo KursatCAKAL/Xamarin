@@ -33,8 +33,9 @@ Artık ayarlar menümüze Developer Mode etiketi eklendi.<br>
 <img height="450px" width="270px" src="https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/7.png"> 
 <h1>Adım2:</h1>
 
-Android SDK manager sayesinde gerekli driver'ları yükliyeceğiz.
+Android SDK manager sayesinde gerekli driver'ları yükliyeceğiz.<br>
 Gereksiz yükleme yapmak istemiyorsanız lütfen sadece 'Google USB Driver package' in seçili olduğundan emin olun işlem için bu yükleme yeterli olacak.
+![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/1-2.png) 
 Kurulumu gerçekleştirdikten sonra "C:\Program Files (x86)\Android\android-sdk\extras\google\usb_driver" yolunu kontrol ediniz.
 ![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/2-2.png) 
 ŞEKLİNDE DOSYA İÇERİĞİ OLMASI GEREKİR.
