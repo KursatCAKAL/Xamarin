@@ -32,14 +32,16 @@ USB debugging seçeneğini telefon ile derleme işlemini gerçekleştirmek için
 Artık ayarlar menümüze Developer Mode etiketi eklendi.
 ![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/7.png)
 
-Adım2:
+<h1>Adım2:</h1>
+
 Android SDK manager sayesinde gerekli driver'ları yükliyeceğiz.
 Gereksiz yükleme yapmak istemiyorsanız lütfen sadece 'Google USB Driver package' in seçili olduğundan emin olun işlem için bu yükleme yeterli olacak.
 Kurulumu gerçekleştirdikten sonra "C:\Program Files (x86)\Android\android-sdk\extras\google\usb_driver" yolunu kontrol ediniz.
-RESİM 1_ 
+![alt text](https://github.com/KursatCAKAL/Xamarin/blob/master/XAMAR%C4%B0N_DEBUG_ON_DEV%C4%B0CE/2-2.png) 
 ŞEKLİNDE DOSYA İÇERİĞİ OLMASI GEREKİR.
 
-Adım 3:
+<h1>Adım3:</h1>
+
 Geriye sadece bilgisayarımıza telefonu bağlayarak cihaz kurulumunu yüklemiş olduğumuz Google Usb Driver yolu ile özdeşleştirmek kaldı.
 -Aygıtınızı bir USB kablosuyla bilgisayara bağlayın.
 -Masaüstünden veya Windows Gezgini'nden Bilgisayar'ı sağ tıklatın ve Yönet'i seçin.
