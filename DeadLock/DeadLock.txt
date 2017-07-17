@@ -1,0 +1,21 @@
+https://stackoverflow.com/questions/26070001/httpclient-freezes-on-the-getstringasync-method
+
+https://forums.xamarin.com/discussion/48020/httpclient-hangs-at-getasync-when-debugging-on-android-device
+
+http://blog.stephencleary.com/2012/07/dont-block-on-async-code.html
+
+https://blogs.msdn.microsoft.com/pfxteam/2011/01/13/await-and-ui-and-deadlocks-oh-my/
+
+xamarin HttpClient freezes on the GetStringAsync method
+
+http://www.johankarlsson.net/2014/04/httpclient-is-unstable-using.html
+
+https://msdn.microsoft.com/en-us/library/mt228282.aspx
+
+https://forums.xamarin.com/discussion/56239/async-await-method-crash-web-services-response-in-android-but-same-code-work-successfully-in-other
+
+https://stackoverflow.com/questions/30826932/not-able-to-connect-to-internet-from-visual-studio-emulator-for-android
+
+https://stackoverflow.com/questions/32797558/no-internet-connection-for-visual-studio-android-emulator
+
+https://www.youtube.com/watch?v=yHLa92ImSjM

@@ -1,0 +1,29 @@
+1-Local_IIS üzerinde deneme yapmak istiyorsak ip deðerini doðru verdiðimizden emin olacaz.
+2-SQL Server ile ilgili bütün eriþimlerin aktive olduðundan emin olacaz.
+3-Cihazýmýzda internet proxy ayarlarýný yapýlandýrdýðýmýzdan emin olacaz.
+4-Hyper-V üzerindeki confugurationlarý doðru yapacaz.
+5-Mobil ortamdaki localhost anahtar kelimesi yerine ip adresimizi girdiðimizden emin olacaz.
+
+
+
+Finally I have solved the problem after lots of R&D.
+
+Problem in Network Connectivity.
+
+I have solve this issue after setting of Network Connectivity in Android Emulator.
+
+Follow Below step..
+
+Open VS Android Emulator >> Go to Setting >> Turn ON WIFI >>
+
+There are "Wired eth1" Network available.
+
+Long Press on "Wired eth1" Network
+
+Then Click on >> Modify Network >> Change "IP Setting" as "Static" >>
+
+Change IP address of your Network.
+
+After this setting I have Solved my Issue and Get a Response from REST API.
+
+Thank you.
