@@ -6,6 +6,7 @@
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_0.png">
 <h5>Gördüğümüz gibi debug aşamasında localhost web service adresimiz verilerin asenkron olarak deserialize edeliceği yani json formattan bizim uygun model yapımıza dönüştürüleceği aşamada veri bir türlü gelmiyor</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_1_.png">
+<h5>Bu aşamada istersek web servisimizi azure veya diğer sunucular üzerinde yayına açıp bu adres üzerinden uygulamayı ayağa kaldırıp, kendi cihazımız üzerinde çalıştırabiliriz.Fakat aynı durumlar karşılaşabiliriz bu durumun sebebi cihazımızda internet bağlantısının açık olmamasıdır.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_3.png">
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_3_.png">
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_4.png">
