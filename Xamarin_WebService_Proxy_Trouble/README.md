@@ -16,10 +16,12 @@
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_7.png">
 <h5>Şimdi sıra mevcut cihaza bu switch'i eklemekte.Bu switch'i barındıran bir ağ adaptörü oluşturuyoruz.Ve oluşturduğumuz bu ağ adaptörünü cihazımıza ekliyeceğiz.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_4.png">
-<h5></h5>
+<h5>Sırayı gözeterek mevcut switc'i ağ adaptörüne bağlayarak bu donatıyı cihazımıza kazandırdık.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_5.png">
-
+<h5>Şimdi bu yapının nasıl çalıştığından bahsedelim</h5>
 
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_8.png">
+<h5>Gördüğümüz gibi sahip olduğumuz internet bağlantılarının yönetim kısmındayız.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_9.png">
+<h5>İşaretlemiş olduğum protokol aslında varsayılan olarak kullanılan internet bağlantısını kullanarak emulator cihaza internet sağlayan bir protokol.Yani sanal olarak oluşturduğum bir internet bağlantısı sanal bir cihaza internet sağlamış oluyor.</h5> 
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_10.png">
