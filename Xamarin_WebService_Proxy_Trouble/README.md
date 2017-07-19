@@ -10,10 +10,12 @@
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_3.png">
 <h5>Bu optimizasyonu yapabilmek için öncelikle Hyper-V üzerinde bir switch oluşturmamız gerekiyor.Daha sonra bu switch'i hangi emulator üzerinde uygulama çalıştıracaksak o emulatorün donatılarına bir ağ adaptörü ekliyeceğiz.Emulator cihazımızın bu işlem için sahip olması gereken 2 adet adaptör mevcuttur ve aşağıda işaretlenmiştir.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_3_.png">
+<img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_6.png">
+<img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_7.png">
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_5.png">
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_6.png">
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_4.png">
-<img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_7.png">
+
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_8.png">
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_9.png">
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_10.png">
