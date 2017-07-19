@@ -24,3 +24,4 @@
 <h5>Gördüğümüz gibi sahip olduğumuz internet bağlantılarının yönetim kısmındayız.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_9.png">
 <h5>İşaretlemiş olduğum protokol aslında varsayılan olarak kullanılan internet bağlantısını kullanarak emulator cihaza internet sağlayan bir protokol.Yani sanal olarak oluşturduğum bir internet bağlantısı sanal bir cihaza internet sağlamış oluyor.</h5> 
+<img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_11.png">
