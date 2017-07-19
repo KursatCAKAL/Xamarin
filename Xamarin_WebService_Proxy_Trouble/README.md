@@ -12,8 +12,9 @@
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_3_.png">
 <h5>Sanal anahtar yöneticisine giriyoruz.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_6.png">
-<h5>Emulator cihazımız üzerinde 2 adet(internal-external) switch bulunması gerektiğini söylemiştik şuanda biz external olan switch eklentisini oluşturacağız.</h5>
+<h5>Emulator cihazımız üzerinde 2 adet(internal-external) switch bulunması gerektiğini söylemiştik şuanda biz external olan switch eklentisini oluşturacağız.Bu eklentiyi oluştururken dikkat etmemiz gereken şey mevcut wi-fi donanımızı kullanarak oluşturmamız gerektiğidir.Fakat ethernet kablosu ile internet erişimi sağlıyorsak bu durumu wi-fi donanımız yerine ethernet ile entegrasyon sağlayan seçeneğimizi seçebiliriz.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_7.png">
+<h5>Şimdi sıra mevcut cihaza bu switch'i eklemekte.</h5>
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_5.png">
 <img src="https://github.com/KursatCAKAL/Xamarin/blob/master/Xamarin_WebService_Proxy_Trouble/Proxy_Confuguration_For_Android_Emulator_4.png">
 
